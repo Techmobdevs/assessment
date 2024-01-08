@@ -11,7 +11,7 @@ For this assessment you will formulate test cases based on a number of requireme
 ## Requirements:
 
 - On the homepage I can search for a product via the search bar
-- I can navigate to my shopping cart via the homepage.
+- I can navigate to my shopping cart via the homepage
 - When I search for a product I can add the product to my shopping cart
 - When I log in with the wrong credentials, I see an error message
 - Via the dropdown menu I can quickly navigate to the category `Zwanger, Baby & Peuter > Babykamer & Slapen > Babykamermeubels`
