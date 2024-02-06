@@ -4,7 +4,7 @@ Congratulations, you have been invited to take an assessment for TechMob!
 
 For this assessment you will formulate test cases based on a number of requirements and then automate them. This may be done in a tool of your choice (Playwright, Cypress, Selenium...) and in a programming language of your choice.
 
-When you are done with the assessment upload it to Github and e-mail the link us.
+When you are done with the assessment upload it to Github and email the link us.
 
 <aside>
 💡 All requirements relate to the website of https://bol.com.
