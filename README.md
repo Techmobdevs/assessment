@@ -4,7 +4,7 @@ Gefeliciteerd je bent uitgenodigd om een assessment te maken voor TechMob!
 
 Voor dit assessment ga je vanuit een aantal requirements test cases formuleren om deze vervolgens te automatiseren. Dit mag in een tool naar jouw keuze (Playwright, Cypress, Selenium…) en in een programmeertaal naar jouw keuze. 
 
-Wanneer je klaar bent met de assessment upload je het naar Github en mail je de link naar ons.
+Wanneer je klaar bent met het assessment upload je het naar Github en stuur je ons de link.
 
 <aside>
 💡 Alle requirements hebben betrekking op de website van https://bol.com.
